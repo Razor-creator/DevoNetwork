@@ -128,24 +128,24 @@ body
 {
     border-top-left-radius: 16px;
     border-bottom-left-radius: 16px;
-    background-color: #ff8484;
+    background-color: #C9861D;
 }
 
 .bgcolor-second
 {
-    background-color: #ef5858;
+    background-color: #D2901D;
 }
 
 .bgcolor-third
 {
-    background-color: #db3434;
+    background-color: #CB9921;
 }
 
 .bgcolor-fourth
 {
     border-top-right-radius: 16px;
     border-bottom-right-radius: 16px;
-    background-color: #c40b0b;
+    background-color: #E9AB1C;
 }
 
 
